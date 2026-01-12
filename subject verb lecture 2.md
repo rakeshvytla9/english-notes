@@ -50,7 +50,7 @@ This rule distinguishes between an indefinite quantity (many) and a specific sta
     *   *(Meaning: Many candidates)*
 
 ### **Handwritten Board Example (Video ~25:20):**
-*   **"The number of girls in the library was/were very high."**
+*   **"The number of girls who were(were because it refers to girls not number) in the library was/were very high."**
     *   **Correct Answer:** **was**.
     *   *Logic:* The subject is "The number" (a specific count). The phrase "in the library" is just extra information about location. The count itself is singular.
 
@@ -78,24 +78,32 @@ When "One of" is followed by Who, Which, or That.
 *   **Rule:** `One of + Plural Noun (Antecedent) + Relative Pronoun + Plural Verb`
 *   **Logic:** The Relative Pronoun refers to the **Antecedent** (the noun immediately before it). Since the antecedent is plural, the verb is plural.
 
-**Examples:**
-1.  Geeta is one of the **girls who have** participated in the competition.
-    *   *(Antecedent: Girls $\rightarrow$ have)*
-2.  She is one of the **best mothers that have** ever lived.
-    *   *(Antecedent: Mothers $\rightarrow$ have)*
-3.  Ramesh is one of these **honest employees who have** worked in this company till today.
-    *   *(Antecedent: Employees $\rightarrow$ have)*
-4.  Sikhar Dhawan was one of those **Indian cricketers who were** injured in the world cup.
-    *   *(Antecedent: Cricketers $\rightarrow$ were)*
-5.  She is one of the **girls who work** hard day in day out.
-    *   *(Antecedent: Girls $\rightarrow$ work [Plural verb, no 's'])*
+## Examples
 
-### **Concept: The Mixed Example (Handwritten)**
-The teacher combined Type 8 and Type 9 in one complex sentence:
-*   **"The number of students who has/have participated in essay writing competition is/are 365."**
-    *   **Part 1:** `students who have` $\rightarrow$ Relative pronoun 'who' refers to 'students' (Plural), so use **have**.
-    *   **Part 2:** `The number... is` $\rightarrow$ The main subject is 'The number' (Singular statistic), so use **is**.
+1. Geeta is one of the **girls who have** participated in the competition.  
+   **Antecedent:** Girls → have
 
+2. She is one of the **best mothers that have** ever lived.  
+   **Antecedent:** Mothers → have
+
+3. Ramesh is one of these **honest employees who have** worked in this company till today.  
+   **Antecedent:** Employees → have
+
+4. Sikhar Dhawan was one of those **Indian cricketers who were** injured in the World Cup.  
+   **Antecedent:** Cricketers → were
+
+5. She is one of the **girls who work** hard day in, day out.  
+   **Antecedent:** Girls → work (plural verb, no “s”)
+## Concept: The Mixed Example
+
+**Sentence:**  
+The number of students who have participated in the essay writing competition is 365.
+
+- **Part 1:** students who **have**  
+  Relative pronoun **who** refers to **students** (plural) → **have**
+
+- **Part 2:** The number **is**  
+  Main subject **The number** (singular statistic) → **is**
 ---
 
 ### **Variation C: The "Only One" Exception**
