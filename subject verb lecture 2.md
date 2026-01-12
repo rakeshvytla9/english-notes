@@ -1,3 +1,5 @@
+Here are the complete, structured study notes for **Subject-Verb Agreement (Part 02)**, synthesized from Sanjeev Sir’s lecture. These notes include every slide, every handwritten example, and the specific "Picture Methods" used for explanation.
+
 ---
 
 # **Subject-Verb Agreement – Class 02**
