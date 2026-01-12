@@ -140,7 +140,40 @@ When two subjects (S1 and S2) are joined by additive words/phrases, the verb agr
 5.  **The teacher** (S1) as well as students **has** gone on an excursion.
 6.  **Grandfather** (S1) along with the children **has** gone to Chennai.
 7.  **The leader** (S1) with all his followers **is** sent to prison.
+---
 
+## TYPE 11: Correlative Conjunctions (The Nearest Subject Rule)
+
+Unlike Type 10 (where we look at the *first* subject), when nouns or pronouns are joined by these specific pairs, the verb agrees with the **nearest subject**.
+
+### The Connector List
+- **Either … or**
+- **Neither … nor**
+- **Not only … but also**
+- **None … but**
+- **Nor**
+- **Or**
+
+### The Rule
+> **The verb agrees with the subject closest to it (usually Subject 2).**
+
+- **Structure:** Subject 1 + (Connector) + Subject 2 + Verb  
+- If Subject 2 is **singular** → use a **singular verb**  
+- If Subject 2 is **plural** → use a **plural verb**
+
+### Class Examples
+
+1. **Not only** the PM (S1) **but also** his **ministers** (S2) **are** responsible for the current ambience in India.  
+   **Reason:** The verb is closest to *ministers* (plural) → **are**
+
+2. **Neither** the mouse (S1) **nor** the **lion** (S2) **was** caught.  
+   **Reason:** The verb is closest to *lion* (singular) → **was**
+
+3. **Neither** the girl (S1) **nor** her **parents** (S2) **were** present to receive the award.  
+   **Reason:** The verb is closest to *parents* (plural) → **were**
+
+4. **Electronic mail** (S1) **or** **e-mail** (S2) **is** a method of exchanging digital messages.  
+   **Reason:** The verb is closest to *e-mail* (singular) → **is**
 ---
 
 ## **TYPE 12: Deceptive Nouns**
