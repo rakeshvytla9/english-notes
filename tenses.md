@@ -126,4 +126,3 @@ If you state exactly *when* an action happened (yesterday, last year, in 2010), 
 * *Wrong:* "is working" (cannot be used with 'for ten years'); "works" (cannot be used with duration markers in English); "am working" (wrong subject-verb agreement).
 ```eof
 
-Everything is fully consolidated there. Let me know if you need any other modifications before you export it to your Drive!
