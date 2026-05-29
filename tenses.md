@@ -1,6 +1,4 @@
-Here is the entire, hyper-exhaustive master guide consolidated into a single, uninterrupted, copyable Markdown block. Every rule, structural variation (including Active/Passive voices), stative subcategory, logic gate, and quiz explanation is completely integrated here.
 
----
 
 ```markdown
 # 📑 The Definitive Present Tenses Masterclass Guide
@@ -159,12 +157,10 @@ Competitive exams frequently test the syntactic coordinates of adverbs inside th
 
 ## 📊 COMPARISON MASTER LOGIC GATE
 
+```text
 Use this system to diagnose error-detection items on competitive exams:
 
 
-```
-
-```
               Is there a specific past time marker? 
                 (e.g., yesterday, last year, 2021)
                            /          \
@@ -184,11 +180,10 @@ Use this system to diagnose error-detection items on competitive exams:
                                              /              \
                          [Use PRESENT PERFECT SIMPLE]  [Use PRESENT PERFECT CONTINUOUS]
 
-```
-
-```
 
 ---
+
+```
 
 ## 📝 EXHAUSTIVE QUIZ MASTER ANALYSIS
 
@@ -271,5 +266,3 @@ Use this system to diagnose error-detection items on competitive exams:
     * `is working`: Fails because Present Continuous is entirely incompatible with explicit duration markers like "for ten years."
     * `works`: Fails because English grammar prohibits using simple present with "for/since" intervals when an action connects past to present.
     * `am working`: Fails due to incorrect subject-verb agreement conjugation (*She am*).
-
-```
